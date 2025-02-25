@@ -1,4 +1,4 @@
-# Projecte-de-Programacio
+# Projecte de Programacio
 Projecte de programacio 
 
 Anem a donar el Volt (AV) ´es una empresa catalana que pret´en competir amb Uber, Cabify i
